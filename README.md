@@ -1,6 +1,5 @@
 # Banco de Dados do Hospital — 10 Consultas SQL
 
-Atividade individual: criar um banco de dados de hospital (`hospital_db`) e responder a 10 situações-problema com consultas SQL, usando `INNER JOIN`, `WHERE`, `LIKE`, `GROUP BY`, `SUM`, `AVG` e `COUNT`.
 
 ## Arquivos
 
